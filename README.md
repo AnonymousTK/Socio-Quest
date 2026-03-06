@@ -1,6 +1,6 @@
 <h1>🌱 Socio-Quest | Java-Based Web App</h1>
 
-<b>Socio-Quest is a gamified environmental advocacy platform designed to incentivize ecological conservation through task-based challenges and competitive rewards. It leverages algorithmic task management and location-verified activity to make sustainability interactive, measurable, and fun.</b><br>
+<b>Socio-Quest is a gamified environmental quiz-based platform designed to incentivize ecological conservation through task-based challenges and competitive rewards. It leverages algorithmic task management and location-verified activity to make sustainability interactive, measurable, and fun.</b><br>
 <br>
 **🚀 Key Features & Technical Implementation:**
 
